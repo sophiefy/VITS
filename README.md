@@ -3,7 +3,7 @@
 
 
 ## Demo
-Colab demo written in Chinese is preovided [here](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing).
+Colab demo written in Chinese is provided [here](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing).
 
 ## Reference
 
