@@ -9,7 +9,7 @@ Just have some fun...
 - BILIBLI: [基于VITS的星光咖啡馆5人语音合成模型]()
 
 ## Model
-Model is provided [140 epochs](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
+Pre-trained model is provided [140 epochs](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
 
 ## Dataset
 The audios and texts are extracted from the game, consisting of about 20000 audio files.
