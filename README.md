@@ -8,6 +8,14 @@ Just have some fun...
 - Colab: [VITS (推理)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing).
 - BILIBLI: [基于VITS的星光咖啡馆5人语音合成模型]()
 
+## Model
+Model is provided [140 epochs](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
+
+## Dataset
+The audios and texts are extracted from the game, consisting of about 20000 audio files.
+
+The dataset is not going to be public currently. 
+
 ## Contact
 - QQ: 2235306122
 - BILIBILI: [Francis_Komizu](https://space.bilibili.com/636704927)
