@@ -10,10 +10,12 @@ and then download my model and config file.
 
 - Model: 
   - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
-  - [阿里云盘 (198 epochs)]()
+  - [百度网盘 (198 epochs) 提取码0721](https://pan.baidu.com/s/1jfJ5vH9KNzZu10ualhNHjQ)
+
+
 - Configuration file: 
   - [Google Drive](https://drive.google.com/file/d/18ly18hVT8jvgyKbLl7qqqBAaV7Fwkrp5/view?usp=sharing)
-  - [阿里云盘](https://www.aliyundrive.com/s/MTTe2HvBQ1c)
+  - [百度网盘 提取码0721](https://pan.baidu.com/s/1uxP5vGBeNwd4UpPLkQnimA)
 
 ## Demo
 Colab: [VITS (推理)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing)
