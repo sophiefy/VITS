@@ -4,6 +4,13 @@
 
 Just have some fun...
 
+## MoeGoe
+You can run this model on [MoeGoe](https://github.com/CjangCjengh/MoeGoe) developed by [CjangCjengh](https://github.com/CjangCjengh)! Please first read the instructions of MoeGeo
+and then download my model and config file.
+
+- Model: [198 epochs](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
+- Configuration file: [Config](https://drive.google.com/file/d/18ly18hVT8jvgyKbLl7qqqBAaV7Fwkrp5/view?usp=sharing)
+
 ## Demo
 Colab: [VITS (推理)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing)
 
