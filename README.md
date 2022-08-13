@@ -8,8 +8,12 @@ Just have some fun...
 You can run this model on [MoeGoe](https://github.com/CjangCjengh/MoeGoe) developed by [CjangCjengh](https://github.com/CjangCjengh)! Please first read the instructions of MoeGoe
 and then download my model and config file.
 
-- Model: [198 epochs](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
-- Configuration file: [config.json](https://drive.google.com/file/d/18ly18hVT8jvgyKbLl7qqqBAaV7Fwkrp5/view?usp=sharing)
+- Model: 
+  - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
+  - [阿里云盘 (198 epochs)]()
+- Configuration file: 
+  - [Google Drive](https://drive.google.com/file/d/18ly18hVT8jvgyKbLl7qqqBAaV7Fwkrp5/view?usp=sharing)
+  - [阿里云盘](https://www.aliyundrive.com/s/MTTe2HvBQ1c)
 
 ## Demo
 Colab: [VITS (推理)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing)
