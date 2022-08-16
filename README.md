@@ -18,11 +18,11 @@ and then download my models and corresponding configuration files.
 
  |Name|ID|
  |-|-|
- |Shiki Natsume|0|
- |Akizuki Kanna|1|
- |Sumizome Nozomi|2|
- |Hiuchidani Mei|3|
- |Shioyama Suzune|4|
+ |四季ナツメ|0|
+ |明月栞那|1|
+ |墨染希|2|
+ |火打谷愛衣|3|
+ |汐山涼音|4|
 
 - Model: 
   - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
@@ -45,11 +45,11 @@ and then download my models and corresponding configuration files.
 
 |Name|ID|
 |-|-|
-|Kasugano Sora|0|
-|Amatume Akira|1|
-|Yorihimme Nao|2|
-|Migiwa Kazuha|3|
-|Kasugano Haruka (reserved)|4|
+|春日野穹|0|
+|天女目瑛|1|
+|依媛奈緒|2|
+|渚一葉|3|
+|春日野悠 (reserved)|4|
 
 - Model: 
 
@@ -68,6 +68,23 @@ and then download my models and corresponding configuration files.
 ### A Certain Scientific Railgun (collecting data...)
 
 ![railgun](assets/railgun.png)
+
+- Characters
+
+|Name|ID|
+|-|-|
+|上条当麻|0|
+|一方通行|1|
+|垣根帝督|2|
+|御坂美琴|3|
+|麦野沈利|4|
+|食蜂操祈|5|
+|正体不明|6|
+|削板軍覇|7|
+|御坂妹|8|
+|最終信号|9|
+|佐天涙子|10|
+|飾利初春|11|
 
 - Model: 
 
