@@ -29,6 +29,8 @@ and then download my models and corresponding configuration files.
 
 ### Yosuga No Sora (training...)
 
+![yosuga no sora](assets/yosuga.png)
+
 - Model: 
 
 - Configuration file: 
@@ -44,6 +46,8 @@ and then download my models and corresponding configuration files.
 - Demo
 
 ### A Certain Scientific Railgun (collecting data...)
+
+![railgun](assets/railgun.png)
 
 - Model: 
 
