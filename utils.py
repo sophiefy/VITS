@@ -148,6 +148,9 @@ def get_hparams(init=True):
   parser.add_argument('-m', '--model', type=str, required=True,
                       help='Model name')
   
+  parser.add_argument('-p', '--path', type=str, default="./logs",
+                      help='Checkpoint save path')
+  
   args = parser.parse_args()
   model_dir = os.path.join("./logs", args.model)
 
