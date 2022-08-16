@@ -148,12 +148,15 @@ def get_hparams(init=True):
   parser.add_argument('-m', '--model', type=str, required=True,
                       help='Model name')
   
-  parser.add_argument('-p', '--path', type=str, default="./logs",
+  parser.add_argument('-p', '--modeldir', type=str, default="default",
                       help='Checkpoint save path')
   
   args = parser.parse_args()
-  model_dir = os.path.join("./logs", args.model)
-
+  if args.modeldir == "default":
+    model_dir = os.path.join("./logs", args.model)
+  else:
+    model_dir = args.modeldir
+  
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
 
