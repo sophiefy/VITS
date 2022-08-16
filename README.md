@@ -64,7 +64,15 @@ and then download my models and corresponding configuration files.
 
 - Demo
 
+---
+
 ### Genshin (debugging...)
+
+![genshin](assets/genshin.png)
+
+- Description
+
+TTS of 46 characters of Genshin will be supported!
 
 - Model: 
 
