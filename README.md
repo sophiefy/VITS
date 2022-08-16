@@ -68,7 +68,7 @@ and then download my models and corresponding configuration files.
 
 ### Genshin (debugging...)
 
-![genshin](assets/genshin.png)
+![genshin](assets/genshin.jpg)
 
 - Description
 
