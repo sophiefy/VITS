@@ -15,6 +15,7 @@ and then download my models and corresponding configuration files.
 ![cafe stella](assets/stella.png)
 
 - Characters
+
  |Name|ID|
  |-|-|
  |Shiki Natsume|0|
@@ -41,6 +42,7 @@ and then download my models and corresponding configuration files.
 ![yosuga no sora](assets/yosuga.png)
 
 - Characters
+
 |Name|ID|
 |-|-|
 |Kasugano Sora|0|
