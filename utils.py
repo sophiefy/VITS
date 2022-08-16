@@ -149,7 +149,7 @@ def get_hparams(init=True):
                       help='Model name')
   
   parser.add_argument('-p', '--modeldir', type=str, default="default",
-                      help='Checkpoint save path')
+                      help='Directory to save models')
   
   args = parser.parse_args()
   if args.modeldir == "default":
