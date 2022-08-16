@@ -14,6 +14,15 @@ and then download my models and corresponding configuration files.
 
 ![cafe stella](assets/stella.png)
 
+- Characters
+ |Name|ID|
+ |-|-|
+ |Shiki Natsume|0|
+ |Akizuki Kanna|1|
+ |Sumizome Nozomi|2|
+ |Hiuchidani Mei|3|
+ |Shioyama Suzune|4|
+
 - Model: 
   - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
   - [百度网盘 (198 epochs) 提取码0721](https://pan.baidu.com/s/1jfJ5vH9KNzZu10ualhNHjQ)
@@ -30,6 +39,15 @@ and then download my models and corresponding configuration files.
 ### Yosuga No Sora (training...)
 
 ![yosuga no sora](assets/yosuga.png)
+
+- Characters
+|Name|ID|
+|-|-|
+|Kasugano Sora|0|
+|Amatume Akira|1|
+|Yorihimme Nao|2|
+|Migiwa Kazuha|3|
+|Kasugano Haruka (reserved)|4|
 
 - Model: 
 
