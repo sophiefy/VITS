@@ -23,7 +23,7 @@ and then download my models and corresponding configuration files.
 
   - BILIBLI: [基于VITS的星光咖啡馆5人语音合成模型](https://www.bilibili.com/video/BV1ra411P7CA?share_source=copy_web&vd_source=630b87174c967a898cae3765fba3bfa8)
 
-### Yosuga No Sora
+### Yosuga No Sora (training...)
 
 - Model: 
 
@@ -31,6 +31,21 @@ and then download my models and corresponding configuration files.
 
 - Demo
 
+### Genshin (debugging...)
+
+- Model: 
+
+- Configuration file: 
+
+- Demo
+
+### A Certain Scientific Railgun (collecting data...)
+
+- Model: 
+
+- Configuration file: 
+
+- Demo
 
 ## Contact
 QQ: 2235306122
