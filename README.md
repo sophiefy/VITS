@@ -10,6 +10,9 @@ and then download my models and corresponding configuration files.
 
 ## Models
 ### Café Stella and the Reaper's Butterflies
+
+[cafe stella](assets/stella.png)
+
 - Model: 
   - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
   - [百度网盘 (198 epochs) 提取码0721](https://pan.baidu.com/s/1jfJ5vH9KNzZu10ualhNHjQ)
