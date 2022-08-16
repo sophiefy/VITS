@@ -11,7 +11,8 @@ and then download my models and corresponding configuration files.
 ## Models
 ### Café Stella and the Reaper's Butterflies
 
-[cafe stella](assets/stella.png)
+
+![cafe stella](assets/stella.png)
 
 - Model: 
   - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
