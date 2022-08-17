@@ -66,6 +66,30 @@ and then download my models and corresponding configuration files.
 
 ---
 
+### Bishojo Mangekyo (collecting data...)
+
+![mangekyo](assets/mangekyo.png)
+
+- Description
+
+|Name|ID|
+|-|-|
+|蓮華|0|
+|篝ノ霧枝|1|
+|沢渡雫|2|
+|亜璃子|3|
+|灯露椎|4|
+|覡夕莉|5|
+
+- Model:
+
+- Configuration file:
+
+- Demo
+
+
+---
+
 ### Genshin (debugging...)
 
 ![genshin](assets/genshin.jpg)
