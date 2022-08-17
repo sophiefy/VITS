@@ -68,7 +68,7 @@ and then download my models and corresponding configuration files.
 
 ### Bishojo Mangekyo (collecting data...)
 
-![mangekyo](assets/.png)
+![mangekyo](assets/renge.png)
 
 - Description
 
