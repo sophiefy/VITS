@@ -9599,7 +9599,6 @@ DUMMY/shizuku/shizuku_1473.wav|2|ふふっ気持よく、してあげるね…�
 DUMMY/kirie/kirie_0502.wav|1|ふん……もういいわ……！
 DUMMY/dorothy/dorothy_2172.wav|4|……
 DUMMY/kirie/kirie_2050.wav|1|先生っ……もっと強く、抱きしめてっ……！私を、ぎゅっとしてっ……！ぎゅっとされるのも、好きなのぉっ……きもち、いいのっ……！
-DUMMY/shizuku/shizuku_0234.wav|2|♪
 DUMMY/shizuku/shizuku_0689.wav|2|明日から夏休みだね〜、あきちゃん
 DUMMY/alice/alice_1995.wav|3|ほらぁしっかりちゃんと椅子に座らせて
 DUMMY/renge/renge_2128.wav|0|ええ、私もよ
