@@ -148,18 +148,12 @@ def get_hparams(init=True):
   parser.add_argument('-m', '--model', type=str, required=True,
                       help='Model name')
   
-  parser.add_argument('-p', '--modeldir', type=str, default="default",
-                      help='Directory to save models')
-  
   args = parser.parse_args()
-  if args.modeldir == "default":
-    model_dir = os.path.join("./logs", args.model)
-  else:
-    model_dir = args.modeldir
-  
+
+  model_dir = os.path.join("./logs", args.model)
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
-
+  
   config_path = args.config
   config_save_path = os.path.join(model_dir, "config.json")
   if init:
