@@ -78,7 +78,7 @@ and then download my models and corresponding configuration files.
 
 ---
 
-<h3 id="Mangekyo">Bishojo Mangekyo (collecting data...)</h3>
+<h3 id="Mangekyo">Bishojo Mangekyo (training...)</h3>
 
 ![mangekyo](assets/renge.png)
 
