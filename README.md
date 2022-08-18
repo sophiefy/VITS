@@ -30,7 +30,7 @@ and then download my models and corresponding configuration files.
  |汐山涼音|4|
 
 - Model: 
-  - [Google Drive (latest)](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
+  - [Google Drive (380 epochs)](https://drive.google.com/file/d/15lw7aIqvD1OmFPlynGm1NZN3BrhkY6YP/view?usp=sharing)
   - [百度网盘 (198 epochs) 提取码0721](https://pan.baidu.com/s/1jfJ5vH9KNzZu10ualhNHjQ)
 
 - Configuration file: 
