@@ -2,16 +2,16 @@
 
 <h2 id="Contents">Contents</h2>
 
-- [Introduction](Introduction)
-- [MoeGoe](MoeGoe)
-- [Models](Models)
-  - [Café Stella and the Reaper's Butterflies](Stella)
-  - [Yosuga No Sora](Yosuga)
-  - [Genshin](Genshin)
-  - [Bishojo Mangekyo](Mangekyo)
-  - [A Certain Scientific Railgun](Railgun)
-- [Contact](Contact)
-- [References](References)
+- [Introduction](#Introduction)
+- [MoeGoe](#MoeGoe)
+- [Models](#Models)
+  - [Café Stella and the Reaper's Butterflies](#Stella)
+  - [Yosuga No Sora](#Yosuga)
+  - [Genshin](#Genshin)
+  - [Bishojo Mangekyo](#Mangekyo)
+  - [A Certain Scientific Railgun](#Railgun)
+- [Contact](#Contact)
+- [References](#References)
 
 
 <h2 id="Introduction">Introduction</h2>
