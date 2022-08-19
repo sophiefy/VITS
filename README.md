@@ -50,7 +50,7 @@ and then download my models and corresponding configuration files.
   - [百度网盘 提取码0721](https://pan.baidu.com/s/1uxP5vGBeNwd4UpPLkQnimA)
 
 - Demo
-  - Colab: [VITS (推理)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing)
+  - Colab: [VITS (星光咖啡馆)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing)
 
   - BILIBLI: [基于VITS的星光咖啡馆5人语音合成模型](https://www.bilibili.com/video/BV1ra411P7CA?share_source=copy_web&vd_source=630b87174c967a898cae3765fba3bfa8)
 
@@ -71,10 +71,13 @@ and then download my models and corresponding configuration files.
 |春日野悠 (reserved)|4|
 
 - Model: 
+  - [Google Drive ((400+ epochs))](https://drive.google.com/file/d/1eWe-G8trLiX7aRrOyud_ywNlVPRzR2wK/view?usp=sharing)
 
 - Configuration file: 
+  - [Google Drive](https://drive.google.com/file/d/1-oE8i4gI-S_go9-JkSOhg_Ix7ZP5qimp/view?usp=sharing)
 
 - Demo
+  - Colab: [VITS (缘之空)](https://colab.research.google.com/drive/1FeuXBF_XXjYiEI11Y9UQW7YBfUZFJZbc?usp=sharing)
 
 ---
 
