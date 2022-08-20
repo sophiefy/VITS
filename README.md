@@ -97,11 +97,14 @@ and then download my models and corresponding configuration files.
 |覡夕莉|5|
 
 - Model:
+  - [Google Drive]()
 
 - Configuration file:
+  - [Google Drive]()
 
 - Demo
-
+  - Colab: 
+  - BILIBILI:
 
 ---
 
@@ -114,16 +117,16 @@ and then download my models and corresponding configuration files.
 Both single speaker model of Paimon and multi-speaker model of 46 characters will be supported!
 
 - Model: 
-  - [Paimon]()
-  - [46 characters]()
+  - Google Drive: [Paimon]()
+  - Google Drive: [46 characters]()
 
 - Configuration file: 
-  - [Paimon]()
-  - [46 characters]()
+  - Google Drive: [Paimon]()
+  - Google Drive: [46 characters]()
 
 - Demo
-  - [Paimon]()
-  - [46 characters]()
+  - Google Drive: [Paimon]()
+  - Google Drive: [46 characters]()
 
 ---
 
