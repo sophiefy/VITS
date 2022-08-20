@@ -31,7 +31,7 @@ and then download my models and corresponding configuration files.
 
 ![cafe stella](assets/stella.png)
 
-- Characters
+- Description
 
  |Name|ID|
  |-|-|
@@ -60,7 +60,7 @@ and then download my models and corresponding configuration files.
 
 ![yosuga no sora](assets/yosuga.png)
 
-- Characters
+- Description
 
 |Name|ID|
 |-|-|
