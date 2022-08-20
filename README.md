@@ -125,8 +125,9 @@ Both single speaker model of Paimon and multi-speaker model of 46 characters wil
   - Google Drive: [46 characters]()
 
 - Demo
-  - Google Drive: [Paimon]()
-  - Google Drive: [46 characters]()
+  - Colab: [Paimon]()
+  - Colab: [46 characters]()
+  - BILIBILI:
 
 ---
 
