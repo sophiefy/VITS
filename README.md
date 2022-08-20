@@ -111,13 +111,19 @@ and then download my models and corresponding configuration files.
 
 - Description
 
-TTS of 46 characters of Genshin will be supported!
+Both single speaker model of Paimon and multi-speaker model of 46 characters will be supported!
 
 - Model: 
+  - [Paimon]()
+  - [46 characters]()
 
 - Configuration file: 
+  - [Paimon]()
+  - [46 characters]()
 
 - Demo
+  - [Paimon]()
+  - [46 characters]()
 
 ---
 
