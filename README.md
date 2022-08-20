@@ -105,7 +105,7 @@ and then download my models and corresponding configuration files.
 
 ---
 
-<h3 id="Genshin">Genshin (debugging...)</h3>
+<h3 id="Genshin">Genshin (training...)</h3>
 
 ![genshin](assets/genshin.jpg)
 
