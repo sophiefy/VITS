@@ -18,6 +18,8 @@
 
 Just have some fun...
 
+The datasets and models are only for research use, NOT commercial!
+
 <h2 id="MoeGoe">MoeGoe</h2>
 
 You can run my models on [MoeGoe](https://github.com/CjangCjengh/MoeGoe) developed by [CjangCjengh](https://github.com/CjangCjengh)! Please first read the instructions of MoeGoe
