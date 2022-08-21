@@ -76,7 +76,7 @@ and then download my models and corresponding configuration files.
   - [Google Drive (600 epochs)](https://drive.google.com/file/d/1eWe-G8trLiX7aRrOyud_ywNlVPRzR2wK/view?usp=sharing)
 
 - Configuration file: 
-  - [Google Drive](https://drive.google.com/file/d/1-oE8i4gI-S_go9-JkSOhg_Ix7ZP5qimp/view?usp=sharing)
+  - [Google Drive](https://drive.google.com/file/d/1KzwZvwdKTXLpMIQ96Q1FXP_bdEyb-in5/view?usp=sharing)
 
 - Demo
   - Colab: [VITS (缘之空)](https://colab.research.google.com/drive/1FeuXBF_XXjYiEI11Y9UQW7YBfUZFJZbc?usp=sharing)
