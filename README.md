@@ -56,7 +56,7 @@ and then download my models and corresponding configuration files.
 
 ---
 
-<h3 id="Yosuga">Yosuga No Sora (training...)</h3>
+<h3 id="Yosuga">Yosuga No Sora</h3>
 
 ![yosuga no sora](assets/yosuga.png)
 
