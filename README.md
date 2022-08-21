@@ -78,6 +78,8 @@ and then download my models and corresponding configuration files.
 
 - Demo
   - Colab: [VITS (缘之空)](https://colab.research.google.com/drive/1FeuXBF_XXjYiEI11Y9UQW7YBfUZFJZbc?usp=sharing)
+  - AcFun: [基于VITS的缘之空语音合成模型](https://www.acfun.cn/v/ac36752427)
+  - BILIBILI: [基于VITS的in solitude, where we are least alone语音合成模型](https://www.bilibili.com/video/BV1SW4y1b7Vt?spm_id_from=333.999.0.0&vd_source=017d04cd0542838d46958fe808b04d97)
 
 ---
 
