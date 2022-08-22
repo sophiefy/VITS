@@ -164,7 +164,7 @@ Both single speaker model of Paimon and multi-speaker model of 46 characters wil
 
 QQ: 2235306122
 
-BILIBILI: [Francis_Komizu](https://space.bilibili.com/636704927)
+BILIBILI: [Francis-Komizu](https://space.bilibili.com/636704927)
 
 <h2 id="References">References</h3>
 
