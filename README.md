@@ -73,7 +73,7 @@ and then download my models and corresponding configuration files.
 |春日野悠 (reserved)|4|
 
 - Model: 
-  - [Google Drive (600 epochs)](https://drive.google.com/file/d/1eWe-G8trLiX7aRrOyud_ywNlVPRzR2wK/view?usp=sharing)
+  - [Google Drive (600 epochs)](https://drive.google.com/file/d/1gaNtg4XVx0Eo4RC3gScHc3dNBWhoVdxv/view?usp=sharing)
 
 - Configuration file: 
   - [Google Drive](https://drive.google.com/file/d/1KzwZvwdKTXLpMIQ96Q1FXP_bdEyb-in5/view?usp=sharing)
