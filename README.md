@@ -17,6 +17,7 @@
 
 <h2 id="Update">Update</h2>
 
+- 26/8: Released Bishojo Mangekyo model!
 - 26/8: Training Chinese-Japanese bilingual model!
 
 <h2 id="Introduction">Introduction</h2>
@@ -118,7 +119,7 @@ The following 2 speakers are supported currently.
   
 ---
 
-<h3 id="Mangekyo">Bishojo Mangekyo (training...)</h3>
+<h3 id="Mangekyo">Bishojo Mangekyo</h3>
 
 ![mangekyo](assets/renge.png)
 
