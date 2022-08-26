@@ -142,7 +142,7 @@ The following 2 speakers are supported currently.
 
 - Demo
   - Colab: [VITS (美少女万华镜)](https://colab.research.google.com/drive/1qlla1V2FSeBy60aPBIdnNUMMTWaX0msr?usp=sharing)
-  - BILIBILI: 
+  - AcFUN: [基于VITS的美少女万华镜语音合成模型](https://www.acfun.cn/v/ac36911138)
   
 - Dataset
   - [Google Drive](https://drive.google.com/file/d/1k-aYFWZbV7nbgMzjbjySgtSpZAbQH4rD/view?usp=sharing)
