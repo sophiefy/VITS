@@ -34,7 +34,7 @@ and then download my models and corresponding configuration files.
 
 ---
 
-<h3 id="Bilingual"> Chipanese Bilingual Model</h3>
+<h3 id="Bilingual"> Chipanese Bilingual Model (training...)</h3>
 
 - Description
 
