@@ -2,7 +2,7 @@
 
 <h2 id="Contents">Contents</h2>
 
-- [Updata]($Update)
+- [Update]($Update)
 - [Introduction](#Introduction)
 - [MoeGoe](#MoeGoe)
 - [Models](#Models)
@@ -16,6 +16,7 @@
 - [References](#References)
 
 <h2 id="Updata">Update</h2>
+
 - 26/8: Training Chinese-Japanese bilingual model!
 
 <h2 id="Introduction">Introduction</h2>
