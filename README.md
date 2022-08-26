@@ -49,11 +49,13 @@ The following 2 speakers are supported currently.
  |四季ナツメ|0|
  |派蒙|1|
  
--  Model
+- Model
 
 - Configuration file
 
 - Demo
+  - Colab: [VITS (中日双语)](https://colab.research.google.com/drive/1SjWrj93oLPIFuqLUtye5Kv1Yf6FiCcYz?usp=sharing)
+  - BILIBILI:
 
 ---
 
