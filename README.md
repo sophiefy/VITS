@@ -135,7 +135,7 @@ The following 2 speakers are supported currently.
 |覡夕莉|5|
 
 - Model:
-  - [Google Drive](https://drive.google.com/file/d/1_0EyLIo5WwpAXycoyQWLpxszmsSN4MyO/view?usp=sharing)
+  - [Google Drive (715 epochs)](https://drive.google.com/file/d/1_0EyLIo5WwpAXycoyQWLpxszmsSN4MyO/view?usp=sharing)
 
 - Configuration file:
   - [Google Drive](https://drive.google.com/file/d/1rLvi8ydtnJn-hSGi1v-p9qE2JhgcpsZ6/view?usp=sharing)
