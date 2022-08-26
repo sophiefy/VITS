@@ -141,7 +141,7 @@ The following 2 speakers are supported currently.
   - [Google Drive](https://drive.google.com/file/d/1rLvi8ydtnJn-hSGi1v-p9qE2JhgcpsZ6/view?usp=sharing)
 
 - Demo
-  - Colab: [VITS (美少女万华镜)](https://colab.research.google.com/drive/1qlla1V2FSeBy60aPBIdnNUMMTWaX0msr?usp=sharing)
+  - Colab: [VITS (美少女万华镜)](https://colab.research.google.com/drive/1eFmnzUU8OGMlKwFw4OJG23CmawF1_zKh?usp=sharing)
   - AcFUN: [基于VITS的美少女万华镜语音合成模型](https://www.acfun.cn/v/ac36911138)
   
 - Dataset
