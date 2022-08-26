@@ -2,7 +2,7 @@
 
 <h2 id="Contents">Contents</h2>
 
-- [Update]($Update)
+- [Update](#Update)
 - [Introduction](#Introduction)
 - [MoeGoe](#MoeGoe)
 - [Models](#Models)
