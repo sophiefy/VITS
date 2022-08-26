@@ -15,7 +15,7 @@
 - [Contact](#Contact)
 - [References](#References)
 
-<h2 id="Updata">Update</h2>
+<h2 id="Update">Update</h2>
 
 - 26/8: Training Chinese-Japanese bilingual model!
 
