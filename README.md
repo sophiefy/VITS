@@ -16,6 +16,7 @@
 - [References](#References)
 
 <h2 id="Update">Update</h2>
+
 - 28/8: Chinese-Japanese bilingual demo is available!
 - 26/8: Released Bishojo Mangekyo model!
 - 26/8: Training Chinese-Japanese bilingual model!
