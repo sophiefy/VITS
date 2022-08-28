@@ -16,7 +16,7 @@
 - [References](#References)
 
 <h2 id="Update">Update</h2>
-
+- 28/8: Chinese-Japanese bilingual demo is available!
 - 26/8: Released Bishojo Mangekyo model!
 - 26/8: Training Chinese-Japanese bilingual model!
 
@@ -56,7 +56,7 @@ The following 2 speakers are supported currently.
 
 - Demo
   - Colab: [VITS (中日双语)](https://colab.research.google.com/drive/1SjWrj93oLPIFuqLUtye5Kv1Yf6FiCcYz?usp=sharing)
-  - BILIBILI:
+  - BILIBILI: [基于VITS的中日双语语音合成模型](https://www.bilibili.com/video/BV1PG411t7k4?spm_id_from=333.999.0.0)
 
 ---
 
