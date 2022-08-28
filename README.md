@@ -48,7 +48,7 @@ For more information, please refer to this repo: [VITS-Bilingual](https://github
 
 MoeGoe is NOT supported currently!
 
-The following 2 speakers are supported currently.
+The following 2 speakers are supported.
 
 |Name|ID|
  |-|-|
