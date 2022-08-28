@@ -38,11 +38,15 @@ and then download my models and corresponding configuration files.
 
 <h3 id="Bilingual"> Chipanese Bilingual Model (training...)</h3>
 
+![chipanese](assets/gugong.png)
+
 - Description
 
 I modified the Japanese cleaner and conbined it with a Chinese cleaner into a bilingual one, called "Chipanese cleaner"! 
 The training data are from [Genshin](https://zh.moegirl.org.cn/%E5%8E%9F%E7%A5%9E), [Café Stella and the Reaper's Butterflies](https://zh.moegirl.org.cn/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6) and [Kami-sama no You na Kimi e](https://zh.moegirl.org.cn/%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0).
 For more information, please refer to this repo: [VITS-Bilingual](https://github.com/Francis-Komizu/VITS-Bilingual).
+
+MoeGoe is NOT supported currently!
 
 The following 2 speakers are supported currently.
 
