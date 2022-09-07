@@ -17,6 +17,7 @@
 
 <h2 id="Update">Update</h2>
 
+- 7/9: Paimon single speaker demo is available!
 - 28/8: Chinese-Japanese bilingual demo is available!
 - 26/8: Released Bishojo Mangekyo model!
 - 26/8: Training Chinese-Japanese bilingual model!
@@ -153,7 +154,7 @@ The following 2 speakers are supported.
 
 ---
 
-<h3 id="Genshin">Genshin (training...)</h3>
+<h3 id="Genshin">Genshin</h3>
 
 ![genshin](assets/genshin.jpg)
 
@@ -170,10 +171,11 @@ Both single speaker model of Paimon and multi-speaker model of 46 characters wil
   - Google Drive: [46 characters]()
 
 - Demo
-  - Colab: [Paimon]()
+  - Colab: [Paimon](https://colab.research.google.com/drive/1HDV84t3N-yUEBXN8dDIDSv6CzEJykCLw#scrollTo=oiPvCIJ_MHot)
+  - BILIBILI: [派蒙Vtuber出道计划——基于AI深度学习VITS和VSeeFace的派蒙语音合成/套皮](https://www.bilibili.com/video/BV16G4y1B7Ey?share_source=copy_web&vd_source=630b87174c967a898cae3765fba3bfa8)
   - Colab: [46 characters]()
-  - BILIBILI:
-
+  - BILIBILI: on the road-map
+  
 ---
 
 <h3 id="Railgun">A Certain Scientific Railgun (collecting data...)</h3>
