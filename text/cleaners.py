@@ -16,6 +16,8 @@ import re
 from unidecode import unidecode
 from phonemizer import phonemize
 import pyopenjtalk
+from pypinyin import Style, pinyin
+from pypinyin.style._utils import get_finals, get_initials
 
 
 # Regular expression matching whitespace:
@@ -106,6 +108,11 @@ def english_cleaners2(text):
   phonemes = collapse_whitespace(phonemes)
   return phonemes
 
+def chinese_cleaners1(text):
+    from pypinyin import Style, pinyin
+
+    phones = [phone[0] for phone in pinyin(text, style=Style.TONE3)]
+    return ' '.join(phones)
 
 def japanese_cleaners(text):
   '''Pipeline for notating accent in Japanese text.'''
