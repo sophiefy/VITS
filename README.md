@@ -8,6 +8,7 @@
 - [Models](#Models)
   - [Chipanese Bilingual Model](#Bilingual)
   - [Café Stella and the Reaper's Butterflies](#Stella)
+  - [Shiki Natsume](#Natsume)
   - [Yosuga No Sora](#Yosuga)
   - [Bishojo Mangekyo](#Mangekyo)
   - [Genshin](#Genshin)
@@ -94,6 +95,20 @@ The following 2 speakers are supported.
 
 ---
 
+<h3 id="Natsume">Shiki Natsume</h3>
+
+- Description
+
+Single speaker model of Shiki Natsume.
+
+- Model:
+
+- Configuration file:
+
+- Demo:
+
+---
+
 <h3 id="Yosuga">Yosuga No Sora</h3>
 
 ![yosuga no sora](assets/yosuga.png)
@@ -119,9 +134,6 @@ The following 2 speakers are supported.
   - AcFun: [基于VITS的缘之空4人语音合成模型 (完整视频)](https://www.acfun.cn/v/ac36752427)
   - BILIBILI: [基于VITS的in solitude, where we are least alone语音合成模型 (阉割视频)](https://www.bilibili.com/video/BV1SW4y1b7Vt?spm_id_from=333.999.0.0&vd_source=017d04cd0542838d46958fe808b04d97)
 
-- Dataset
-  - [Google Drive](https://drive.google.com/file/d/1aqqDqljkXLNPBLZKpwYh1HtkSirkykn5/view?usp=sharing)
-  
 ---
 
 <h3 id="Mangekyo">Bishojo Mangekyo</h3>
@@ -148,9 +160,6 @@ The following 2 speakers are supported.
 - Demo
   - Colab: [VITS (美少女万华镜)](https://colab.research.google.com/drive/1eFmnzUU8OGMlKwFw4OJG23CmawF1_zKh?usp=sharing)
   - AcFUN: [基于VITS的美少女万华镜语音合成模型](https://www.acfun.cn/v/ac36911138)
-  
-- Dataset
-  - [Google Drive](https://drive.google.com/file/d/1k-aYFWZbV7nbgMzjbjySgtSpZAbQH4rD/view?usp=sharing)
 
 ---
 
