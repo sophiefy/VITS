@@ -153,3 +153,34 @@ def japanese_cleaners(text):
   if re.match('[A-Za-z]',text[-1]):
     text += '.'
   return text
+
+def japanese_triphone_cleaners(text):
+  sentences = re.split(_japanese_marks, text)
+  marks = re.findall(_japanese_marks, text)
+  print(sentences)
+  print(marks)
+  text = ''
+  for i, sentence in enumerate(sentences):
+    phones = pyopenjtalk.g2p(sentence, kana=False)
+    phones = phones.replace(' ','')
+    phones = phones.replace('A', 'a').replace('I', 'i').replace('U', 'u').replace('E', 'e').replace('O', 'o')
+    triphones = []
+    length = len(phones)
+    for j, phone in enumerate(phones):
+      if length == 1:
+        triphone = phone
+      else:
+        if j == 0:
+          triphone = f'{phone}+{phones[j+1]}'
+        elif j == length - 1:
+          triphone = f'{phones[j-1]}-{phone}'
+        else:
+          triphone = f'{phones[j-1]}-{phone}+{phones[j+1]}'
+      triphones.append(triphone)
+    subtext = ' '.join(triphones)
+    text += subtext
+    if i < len(marks):
+      text += unidecode(marks[i]).replace(' ', '')
+  if re.match('[A-Za-z]',text[-1]):
+    text += '.'
+  return text
