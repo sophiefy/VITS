@@ -7,7 +7,7 @@ _pad        = '_'
 _punctuation = ',.!?-~'
 _punctuation_zh = '；：，。！？-“”《》、 '
 _letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
-_letters_ipa = 'ʃʧ↓↑ '
+_letters_ipa = '-+ʃʧ↓↑ '
 _numbers = '123450'
 
 # Export all symbols:
