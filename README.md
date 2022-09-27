@@ -44,13 +44,19 @@ and then download my models and corresponding configuration files.
 To further utilize the contextual information of the text, I wrote a **physiscal triphone** cleaners for Japanese. For more details about triphone, refer to [this material](http://sap.ist.i.kyoto-u.ac.jp/dictation/doc/phone_m.pdf).
 
 Raw text:
-> 準備はいいかしら。
+```
+さあ、はりきって行きましょう。
+```
 
 Phonemes:
-> 
+```
+s a a,h a r i k i Q t e i k i m a ʃ o o.
+```
 
 Triphones (physical):
-> 
+```
+s+a s-a+a a-a,h+a h-a+r a-r+i r-i+k i-k+i k-i+Q i-Q+t Q-t+e t-e+i e-i+k i-k+i k-i+m i-m+a m-a+ʃ a-ʃ+o ʃ-o+o o-o.
+```
 
 The following 2 speakers are supported.
 
