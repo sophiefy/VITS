@@ -18,10 +18,7 @@
 
 <h2 id="Update">Update</h2>
 
-- 7/9: Paimon single speaker demo is available!
-- 28/8: Chinese-Japanese bilingual demo is available!
-- 26/8: Released Bishojo Mangekyo model!
-- 26/8: Training Chinese-Japanese bilingual model!
+- `japanese_triphone_cleaners` is available. 
 
 <h2 id="Introduction">Introduction</h2>
 
