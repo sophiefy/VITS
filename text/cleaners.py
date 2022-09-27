@@ -160,8 +160,10 @@ def japanese_triphone_cleaners(text):
   text = ''
   for i, sentence in enumerate(sentences):
     phones = pyopenjtalk.g2p(sentence, kana=False)
+    print(phones)
     phones = phones.replace(' ','')
     phones = phones.replace('A', 'a').replace('I', 'i').replace('U', 'u').replace('E', 'e').replace('O', 'o')
+    phones = phones.replace('ch','ʧ').replace('sh','ʃ').replace('cl','Q')
     triphones = []
     length = len(phones)
     for j, phone in enumerate(phones):
@@ -181,4 +183,5 @@ def japanese_triphone_cleaners(text):
       text += unidecode(marks[i]).replace(' ', '')
   if len(text) > 0  and re.match('[A-Za-z]',text[-1]):
     text += '.'
+  print(text)
   return text
