@@ -179,6 +179,6 @@ def japanese_triphone_cleaners(text):
     text += subtext
     if i < len(marks):
       text += unidecode(marks[i]).replace(' ', '')
-  if re.match('[A-Za-z]',text[-1]):
+  if len(text) > 0  and re.match('[A-Za-z]',text[-1]):
     text += '.'
   return text
