@@ -157,8 +157,6 @@ def japanese_cleaners(text):
 def japanese_triphone_cleaners(text):
   sentences = re.split(_japanese_marks, text)
   marks = re.findall(_japanese_marks, text)
-  print(sentences)
-  print(marks)
   text = ''
   for i, sentence in enumerate(sentences):
     phones = pyopenjtalk.g2p(sentence, kana=False)
