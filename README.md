@@ -58,8 +58,6 @@ Triphones (physical):
 s+a s-a+a a-a,h+a h-a+r a-r+i r-i+k i-k+i k-i+Q i-Q+t Q-t+e t-e+i e-i+k i-k+i k-i+m i-m+a m-a+ʃ a-ʃ+o ʃ-o+o o-o.
 ```
 
-Given that there's alreay a blank between two triphones, `add_blank` is set to `False`.
-
 The following 2 speakers are supported.
 
 |Name|ID|
