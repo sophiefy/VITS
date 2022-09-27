@@ -217,3 +217,5 @@ BILIBILI: [Francis-Komizu](https://space.bilibili.com/636704927)
 [Original code](https://github.com/jaywalnut310/vits)
 
 [Reference code](https://github.com/CjangCjengh/vits)
+
+[Triphone](http://sap.ist.i.kyoto-u.ac.jp/dictation/doc/phone_m.pdf)
