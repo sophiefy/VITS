@@ -1,0 +1,11 @@
+DUMMY/natsume/natsume_8391.wav|0|マスターはソフィアさまを追いかけるというのですか？
+DUMMY/natsume/natsume_8392.wav|0|……ソフィアさま、申し訳ありません
+DUMMY/natsume/natsume_8393.wav|0|マスターに完全に騙されてしまいました
+DUMMY/natsume/natsume_8394.wav|0|なるほど……
+DUMMY/natsume/natsume_8395.wav|0|それが、マスターの選択であれば、全力で支援させていただきます
+DUMMY/natsume/natsume_8396.wav|0|多くの困難が予想されますが……
+DUMMY/natsume/natsume_8397.wav|0|失敗してもいい……？
+DUMMY/natsume/natsume_8398.wav|0|そうですか。このセントラルエーアイには、まだ学ばねばならないことが、多くあるようです
+DUMMY/miyuki/471.wav|1|準備はいいかしら
+DUMMY/miyuki/472.wav|1|日差しが強くなってきたわね。そうだ、帽子を新調しようかしら
+DUMMY/miyuki/473.wav|1|さあ、はりきって行きましょう
