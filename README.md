@@ -6,9 +6,9 @@
 - [Introduction](#Introduction)
 - [MoeGoe](#MoeGoe)
 - [Models](#Models)
+  - [Shiki Natsume](#Natsume)
   - [Chipanese Bilingual Model](#Bilingual)
   - [Café Stella and the Reaper's Butterflies](#Stella)
-  - [Shiki Natsume](#Natsume)
   - [Yosuga No Sora](#Yosuga)
   - [Bishojo Mangekyo](#Mangekyo)
   - [Genshin](#Genshin)
@@ -32,6 +32,29 @@ You can run my models on [MoeGoe](https://github.com/CjangCjengh/MoeGoe) develop
 and then download my models and corresponding configuration files.
 
 <h2 id="Models">Models</h2>
+
+---
+
+<h3 id="Natsume">Shiki Natsume</h3>
+
+![triphone](assets/triphone.png)
+
+- Description
+
+To further utilize the context information of the text, I wrote a **physiscal triphone** cleaners for Japanese. For more details about triphone, refer to [this material](http://sap.ist.i.kyoto-u.ac.jp/dictation/doc/phone_m.pdf).
+
+The following 2 speakers are supported.
+
+|Name|ID|
+ |-|-|
+ |四季ナツメ|0|
+ |司波深雪|1|
+
+- Model:
+
+- Configuration file:
+
+- Demo:
 
 ---
 
@@ -89,20 +112,6 @@ The following 2 speakers are supported.
 - Demo
   - Colab: [VITS (星光咖啡馆)](https://colab.research.google.com/drive/1nKa-l15f_talGvIwPmKTLYwwaE1Mztjg?usp=sharing)
   - BILIBLI: [基于VITS的星光咖啡馆5人语音合成模型](https://www.bilibili.com/video/BV1ra411P7CA?share_source=copy_web&vd_source=630b87174c967a898cae3765fba3bfa8)
-
----
-
-<h3 id="Natsume">Shiki Natsume</h3>
-
-- Description
-
-Single speaker model of Shiki Natsume.
-
-- Model:
-
-- Configuration file:
-
-- Demo:
 
 ---
 
