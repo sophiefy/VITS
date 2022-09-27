@@ -41,7 +41,7 @@ and then download my models and corresponding configuration files.
 
 - Description
 
-To further utilize the context information of the text, I wrote a **physiscal triphone** cleaners for Japanese. For more details about triphone, refer to [this material](http://sap.ist.i.kyoto-u.ac.jp/dictation/doc/phone_m.pdf).
+To further utilize the contextual information of the text, I wrote a **physiscal triphone** cleaners for Japanese. For more details about triphone, refer to [this material](http://sap.ist.i.kyoto-u.ac.jp/dictation/doc/phone_m.pdf).
 
 The following 2 speakers are supported.
 
